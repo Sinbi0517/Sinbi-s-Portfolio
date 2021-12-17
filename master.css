@@ -114,7 +114,7 @@ height : 75px;
 .sub02_cont { width: 1024px; height: 1200px; display: flex; padding-left: 100px;}
 .sub02_cont_left {width: 400px; height: 1200px; border: 0px solid red;}
 .sub02_cont_left img {padding-bottom: 0px;  transition: all 0.2s linear;}
-.sub02_cont_left hover img {transform: scale(1.4); Sinbi&#8217;s Portfolio;}
+.sub02_cont_left hover img {transform: scale(1.4); }
 .sub02_cont_right { width: 553px; height: 1100px; border: 0px solid blue; }
 .sub02_cont_right img {padding-right: 0px;  margin-bottom: 20px;}
 
